@@ -1,0 +1,1 @@
+Esto es un repositorio de ejemplo para paradigmas grupo 2
